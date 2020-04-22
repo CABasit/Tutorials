@@ -1,0 +1,29 @@
+python manage.py runserver
+python manage.py startapp utilities
+python manage.py makemigrations
+python manage.py migrate
+
+django-admin startproject mysite
+
+Computer Technology Solution Provider: Provides Computer Sciences efficient Solutions
+
+git init
+git status
+git add .
+git commit -m "version1"
+git config --global user.email "basit.virk@gmail.com"
+git config --global user.name "abasit"
+git log
+git remote add origin https://github.com/CABasit/Tutorials.git
+git push -u origin master
+
+
+<h3><span id="typed">Enter your text here and let Text Utils do the magic!
+</span><span class="typed-cursor typed-cursor--blink">|</span></h3>
+
+
+Flex box
+
+<link rel="stylesheet" href="harry.css">
+<script src="harry.js></script>
+<a href="/" targer="_blank"> to open in new tab...
